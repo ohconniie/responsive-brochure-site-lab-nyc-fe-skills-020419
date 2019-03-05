@@ -123,7 +123,7 @@ section p b {
 text-transform: uppercase;
 }
 
-@media (min-width:320px) and (max-width:767px) {
+@media (min-width:320px) and (max-width:600px) {
   .flex-nav ul {
   justify-content: space-between;
 }
